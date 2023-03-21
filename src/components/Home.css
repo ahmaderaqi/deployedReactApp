@@ -1,0 +1,11 @@
+.homeCss{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px 10px;
+    padding-left: 10px;
+    /* background-color: black; */
+}
+.g2-4{
+    background-color:red ;
+}
